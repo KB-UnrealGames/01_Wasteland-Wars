@@ -7,3 +7,4 @@ Terrain desgins all go to Pixel Perfect Polygons
 
 Step List
 1. Information
+2. Game Desgin Document (GDD)
